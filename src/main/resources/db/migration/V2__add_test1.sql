@@ -1,0 +1,1 @@
+insert into test1(uid,uname) values(1,'1234fd2g')
